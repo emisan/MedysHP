@@ -12,3 +12,10 @@ a.dropdown-item:hover
 	color:#F8F9FA;
 }
 
+[data-animation] {
+	opacity:0;
+}
+
+[data-animation].animated {
+	opacity:1;
+} 
